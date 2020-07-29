@@ -1,0 +1,23 @@
+div {
+    width: calc((100% - 288px - 4px) / 2);
+    height: 512px;
+    float:left;
+    display: inline-block;
+}
+
+.hidden {
+    display: none;
+}
+
+
+.canvasContainer {
+    float: left;
+    width: 288px;
+    border: #66bfff 2px solid;
+}
+
+.buttonContainer {
+    width: 150px;
+    margin-left: 10px;
+    height: 40px;
+}
